@@ -3,7 +3,7 @@ from telebot import types
 
 
 
-bot = telebot.TeleBot('5985154835:AAG53szPQnpzqsik1TPlN7VtXLlmcrtlRLw')
+bot = telebot.TeleBot('APIbot')
 
 def ispol(message):
     #MAX(`id`)
